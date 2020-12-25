@@ -17,3 +17,12 @@ document.getElementById('text').innerHTML="Hey Siva!!";
 
 var age=prompt('What is your age?');
 document.getElementById('Sometext').innerHTML=age;
+
+var num1=10;
+
+//Increment by 1 
+num1++;
+
+//Decrement by 1
+num1--;
+console.log(num1);
